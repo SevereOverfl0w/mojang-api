@@ -1,10 +1,9 @@
 # mojang-api
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to interact with the Mojang API.
 
 ## Usage
-
-FIXME
+Check the [API docs](http://severeoverfl0w.github.io/mojang-api/)
 
 ## License
 
